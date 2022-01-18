@@ -36,6 +36,7 @@ To use dost, You first need to create a discord bot from [Discord Developer Port
 ```
 
 ## Built with
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 [Hikari](https://github.com/hikari-py/hikari)  
 [Hikari Lightbulb](https://github.com/tandemdude/hikari-lightbulb)  
 [Coinbase API](https://developers.coinbase.com/api/v2)
