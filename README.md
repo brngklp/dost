@@ -30,9 +30,9 @@ To use dost, You first need to create a discord bot from [Discord Developer Port
 
 ## Available Commands
 ```
-        `help`- Prints the help message.
-        `dollar` - Prints out the usd to try currency.
-        `dost` - Gives you the choice to select the currency and the base.
+`help`- Prints the help message.
+`dollar` - Prints out the usd to try currency.
+`dost` - Gives you the choice to select the currency and the base.
 ```
 
 ## Built with
