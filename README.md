@@ -26,7 +26,7 @@ git clone https://github.com/brngklp/dost ; cd dost ; pip install -r requirement
 ```
 
 ## Usage
-To use dost, You first need to create a discord bot from [Discord Developer Portal](https://discord.com/developers/applications). After you create the bot, you need to copy the token of your bot and paste it to the token variable at [main.py](https://github.com/brngklp/dost/blob/main/src/main.py). If you're a developer and you want to improve this project, you can copy your server's Id and paste it to the default_enabled_guilds variable at [main.py](https://github.com/brngklp/dost/blob/main/src/main.py). Dost works with Slash commands that you enter in Discord. The available commands are listed in the [Available Commands Section](https://github.com/brngklp/dost/blob/master/README.md#Available_Commands)
+To use dost, You first need to create a discord bot from [Discord Developer Portal](https://discord.com/developers/applications). After you create the bot, you need to copy the token of your bot and paste it to the token variable at [main.py](https://github.com/brngklp/dost/blob/main/src/main.py). If you're a developer and you want to improve this project, you can copy your server's Id and paste it to the default_enabled_guilds variable at [main.py](https://github.com/brngklp/dost/blob/main/src/main.py). Dost works with Slash commands that you enter in Discord. The available commands are listed in the [Available Commands Section](https://github.com/brngklp/dost/blob/main/README.md#available-commands)
 
 ## Available Commands
 ```
