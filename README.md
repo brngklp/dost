@@ -50,6 +50,4 @@ Baran Gokalp
 ## License
 This project is licensed under the MPL-2.0 License - see the [LICENSE](https://github.com/brngklp/dost/blob/main/LICENSE) file for details
 
-$$
-f(x) = x^2
-$$
+
